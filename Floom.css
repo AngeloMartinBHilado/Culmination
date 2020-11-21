@@ -90,10 +90,10 @@ background: url("img/banner.svg");
 {
 	background-color:#CCFFCC;
 	position: relative;
-    top: 50%;
+    top: 60%;
    left:-2%;
     height: 170px;
-    width: 99%;
+    width: 100%;
 }
 #butterfly
 {
