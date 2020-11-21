@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="1200"
+   height="200"
+   viewBox="0 0 900.00001 150"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg10"
+   sodipodi:docname="s.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <defs
+     id="defs14">
+    <rect
+       x="7.9153366"
+       y="4.9991598"
+       width="588.47217"
+       height="164.96211"
+       id="rect895" />
+    <rect
+       x="10.414916"
+       y="13.331093"
+       width="211.6311"
+       height="207.04854"
+       id="rect885" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview12"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.90015125"
+     inkscape:cx="549.71464"
+     inkscape:cy="84.570874"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10"
+     inkscape:document-rotation="0" />
+  <metadata
+     id="metadata2">
+Created by potrace 1.15, written by Peter Selinger 2001-2017
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title></dc:title>
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <text
+     xml:space="preserve"
+     id="text883"
+     style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect885);fill:#000000;fill-opacity:1;stroke:none;" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+     x="29.994959"
+     y="35.410717"
+     id="text891"><tspan
+       sodipodi:role="line"
+       id="tspan889"
+       x="29.994959"
+       y="35.410717"
+       style="stroke-width:0.75" /></text>
+  <text
+     xml:space="preserve"
+     id="text893"
+     style="font-style:normal;font-weight:normal;font-size:48px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect895);fill:#000000;fill-opacity:1;stroke:none"
+     x="268.92004"
+     y="0"
+     transform="translate(154.26392,27.428983)"><tspan
+       x="191.29552"
+       y="48.791855"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Brush Script Std';-inkscape-font-specification:'Brush Script Std';text-align:center;text-anchor:middle;fill:#e2b553;fill-opacity:1">Floom.Com</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+     x="377.06027"
+     y="65.98555"
+     id="text841"><tspan
+       sodipodi:role="line"
+       id="tspan839"
+       x="377.06027"
+       y="65.98555"
+       style="stroke-width:0.75" /></text>
+</svg>
