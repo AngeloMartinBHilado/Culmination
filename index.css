@@ -86,11 +86,9 @@ body {
 		top:30%;
 		left:25%;
 		background: url("img/Wall.svg")no-repeat;
-
-transform: scale(1.5);
+		transform: scale(1.5);
 		width:800px;
 		height:800px;
-		
 		}
 .quote
 {	position:absolute;
