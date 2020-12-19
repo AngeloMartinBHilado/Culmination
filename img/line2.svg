@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="200"
+   viewBox="0 0 132.29167 52.916668"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="line2.svg">
+  <defs
+     id="defs2">
+    <rect
+       x="4.1577381"
+       y="6.4255952"
+       width="124.73214"
+       height="41.199405"
+       id="rect847" />
+    <rect
+       x="103.56548"
+       y="116.41667"
+       width="3.0238094"
+       height="21.922619"
+       id="rect841" />
+    <rect
+       x="10.583333"
+       y="38.55357"
+       width="195.03571"
+       height="201.83929"
+       id="rect835" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.75222513"
+     inkscape:cx="232.40352"
+     inkscape:cy="377.71995"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text833"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Trajan Pro 3';-inkscape-font-specification:'Trajan Pro 3, ';white-space:pre;shape-inside:url(#rect835);fill:#171717;fill-opacity:1;"
+       transform="translate(-6.4255953,-29.482143)" />
+    <text
+       xml:space="preserve"
+       id="text839"
+       style="font-size:10.5833px;line-height:1.25;font-family:Gabriola;-inkscape-font-specification:Gabriola;white-space:pre;shape-inside:url(#rect841);" />
+    <text
+       xml:space="preserve"
+       id="text845"
+       style="font-size:10.5833px;line-height:1.25;font-family:Gabriola;-inkscape-font-specification:Gabriola;white-space:pre;shape-inside:url(#rect847);" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:Gabriola;-inkscape-font-specification:Gabriola;stroke-width:0.264583"
+       x="0.75595266"
+       y="14.363094"
+       id="text853"><tspan
+         sodipodi:role="line"
+         id="tspan851"
+         x="0.75595266"
+         y="14.363094"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Trajan Pro 3';-inkscape-font-specification:'Trajan Pro 3, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fff1f1;fill-opacity:1;stroke-width:0.264583">just sit with me in </tspan><tspan
+         sodipodi:role="line"
+         x="0.75595266"
+         y="28.295015"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Trajan Pro 3';-inkscape-font-specification:'Trajan Pro 3, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fff1f1;fill-opacity:1;stroke-width:0.264583"
+         id="tspan857">the dark</tspan></text>
+  </g>
+</svg>
