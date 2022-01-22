@@ -177,6 +177,15 @@
     
     </div>
 	</div>
+	<div class="dropdown">
+	  <button class="dropbtn">Others
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+        <a href="https://drive.google.com/drive/folders/1YahOs6tmAUQfSdWpu1BX7PaQvuaRQ0ZH?usp=sharing">Photoshop And Others</a>
+    
+    </div>
+	</div>
   
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
 </div>
