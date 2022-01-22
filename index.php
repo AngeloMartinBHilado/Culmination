@@ -159,7 +159,7 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-       <a href="https://svgs.herokuapp.com/">Graphical Art (SVG)</a>
+     
 		<a href="https://codepen.io/angelomartinbhilado/full/GRqrbRy">SVG Animated Object</a>
 		<a href="https://codepen.io/angelomartinbhilado/pen/oNLBzeV">Among Us (SVG TEXT ART)</a>
 		<a href="Floom.php">Floom Page(Interactive website)</a>
