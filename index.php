@@ -163,6 +163,7 @@
 		<a href="https://codepen.io/angelomartinbhilado/full/GRqrbRy">SVG Animated Object</a>
 		<a href="https://codepen.io/angelomartinbhilado/pen/oNLBzeV">Among Us (SVG TEXT ART)</a>
 		<a href="Floom.php">Floom Page(Interactive website)</a>
+	    <a href="https://drive.google.com/drive/folders/1YahOs6tmAUQfSdWpu1BX7PaQvuaRQ0ZH?usp=sharing">Others</a>
 		
     
     </div>
